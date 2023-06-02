@@ -1,9 +1,7 @@
 - Martin Kim
 - Penn State 24'
 - Materials Science and Engineering
-- South Korean
-- Interested in polymers and computational materials
-- 🇰🇷🇺🇸🇨🇦
+- Intersted in rheology
 
 
 
